@@ -1,0 +1,57 @@
+{
+    "mt6765": {
+        "name": "Helio P35",
+        "series": "Helio P",
+        "cpu": "8x Cortex-A53 (4x2.3GHz + 4x1.8GHz)",
+        "architecture": "Cortex-A53",
+        "process": "12nm",
+        "gpu": "PowerVR GE8320 @680MHz",
+        "network": "4G LTE",
+        "performance": "PUBG: 30fps / COD: 40fps",
+        "description": "أداء مقبول للمهام اليومية - لا يناسب الألعاب الثقيلة."
+    },
+    "mt6768": {
+        "name": "Helio G70 / G80",
+        "series": "Helio G",
+        "cpu": "2x Cortex-A75 @2.0GHz + 6x Cortex-A55 @1.7GHz",
+        "architecture": "big.LITTLE (A75 + A55)",
+        "process": "12nm",
+        "gpu": "Mali-G52 MC2",
+        "network": "4G LTE",
+        "performance": "PUBG: 40-50fps / COD: 50-60fps",
+        "description": "مصمم للألعاب الخفيفة والمتوسطة - سعر جيد مقابل الأداء."
+    },
+    "mt6833": {
+        "name": "Dimensity 700",
+        "series": "Dimensity",
+        "cpu": "2x Cortex-A76 @2.2GHz + 6x Cortex-A55 @2.0GHz",
+        "architecture": "big.LITTLE (A76 + A55)",
+        "process": "7nm",
+        "gpu": "Mali-G57 MC2",
+        "network": "5G",
+        "performance": "PUBG: 60fps / COD: 60fps",
+        "description": "يدعم 5G - أداء جيد جداً للفئة المتوسطة الاقتصادية."
+    },
+    "mt6893": {
+        "name": "Dimensity 1200",
+        "series": "Dimensity",
+        "cpu": "1x Cortex-A78 @3.0GHz + 3x A78 + 4x A55",
+        "architecture": "Cortex-A78 / A55",
+        "process": "6nm",
+        "gpu": "Mali-G77 MC9",
+        "network": "5G",
+        "performance": "PUBG: 90fps / Genshin: 50-60fps",
+        "description": "أداء شبه رائد - مثالي للألعاب - منافس قوي لـ SD870."
+    },
+    "mt6983": {
+        "name": "Dimensity 9000",
+        "series": "Dimensity",
+        "cpu": "1x Cortex-X2 @3.05GHz + 3x A710 + 4x A510",
+        "architecture": "ARMv9 (X2 + A710 + A510)",
+        "process": "4nm TSMC",
+        "gpu": "Mali-G710 MC10",
+        "network": "5G",
+        "performance": "PUBG: 120fps / Genshin: 60fps Ultra",
+        "description": "أداء رائد بالكامل - منافس لـ Snapdragon 8 Gen 1."
+    }
+}
