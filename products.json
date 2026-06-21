@@ -1,1 +1,35 @@
+[
+  {
+    "title": "iPhone 15 Pro Max",
+    "price": "950$",
+    "status": "مستخدم نظيف",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+    "description": "الهاتف بحالة ممتازة جداً (شبه جديد)، نسبة البطارية 93%. غير مفكوك أو مصلح سابقاً، فحص كامل ومضمون من رداع ستور. يأتي مع الشاحن الأصلي.",
+    "category": "phones"
+  },
+  {
+    "title": "Lenovo ThinkPad T14",
+    "price": "450$",
+    "status": "مجدد كرت",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
+    "description": "المعالج: Intel Core i5 من الجيل العاشر.\nالرام: 16 جيجابايت DDR4.\nالهارد: 512 جيجابايت SSD فائق السرعة.\nالشاشة: 14 بوصة بدقة FHD.\nالحالة: مجدد كرت نظيف خالي من الخدوش مع ضمانة حقيقية.",
+    "category": "laptops"
+  },
+  {
+    "title": "AirPods Pro 2",
+    "price": "120$",
+    "status": "جديد وكالة",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=500",
+    "description": "سماعات أبل إيربودز برو الجيل الثاني الأصلية. عزل ضوضاء نشط ممتاز، تدعم شحن MagSafe. علبة جديدة مغلقة بقرطاس الوكالة.",
+    "category": "phones"
+  },
+  {
+    "title": "MacBook Pro M2",
+    "price": "1200$",
+    "status": "مستعمل كالجديد",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "description": "المعالج: Apple M2 القوي.\nالرام: 8 جيجابايت مدمجة.\nالهارد: 256 جيجابايت SSD.\nدورة شحن البطارية: 45 دورة فقط (صحة البطارية 98%). نظيف جداً بدون أي عيوب تقنية.",
+    "category": "laptops"
 
+  }
+]
